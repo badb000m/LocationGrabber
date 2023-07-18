@@ -8,6 +8,6 @@ Just set up a listener on your end and edit the LOCATION.py file to contain clie
 
 That's an essential step.
 
-# Keep in mind, this is 99.80 - 99.90% accurate depending on signal strength. 
+# Keep in mind: this only works on Windows and is 99.80 - 99.90% accurate depending on signal strength. 
 
 I hope you enjoy this.
